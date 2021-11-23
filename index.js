@@ -22,8 +22,8 @@ function questions(question, answer) {
   } else {
     console.log(chalk.red("Wrong Answer"));
   }
-  console.log("current score =", score)
-  console.log("---------------------")
+  console.log("current score =", score);
+  console.log("----------------------------------------")
 }
 
 let allQuestions = [{
