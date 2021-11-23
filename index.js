@@ -14,7 +14,7 @@ function questions(question, answer) {
 
   if (userAnswer.toUpperCase() === answer.toUpperCase()) {
     console.log("Right Answer")
-    score = score + 1;
+    score = score + 10;
   } else {
     console.log("Wrong Answer")
   }
@@ -48,6 +48,4 @@ if (score === 3) {
 
   console.log("YAY you got all of them right")
 
-} else {
-  console.log("You got", score, "of them right")
-}
+} 
