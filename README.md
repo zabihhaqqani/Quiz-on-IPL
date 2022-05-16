@@ -1,4 +1,8 @@
 # Quiz-on-IPL
+
+![ipl quiz](https://user-images.githubusercontent.com/53895282/168628666-fd58004d-c57c-4884-99dd-ee5149ddc402.JPG)
+
+
 **A Simple quiz on IPL**
 
 Enter your name and start playing
