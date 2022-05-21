@@ -7,7 +7,7 @@
 
 Enter your name and start playing
 
-- There are 5 questions 
+- There are 7 questions 
 - For each correct answer you get 10 points 
 - options are given for each question
 - At the end you get your final score 
