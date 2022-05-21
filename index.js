@@ -42,6 +42,12 @@ let allQuestions = [{
 },{
   question: "Which team does virat kohli play for in IPL ?\n A = KKR \n B = CSK\n C = RCB\n",
   answer: "C"
+},{
+  question: "What was Sunrises Hyd prevousily called ?\n A = Deccan Charger \n B = Hyderabad Royals \n C = Hyderabad Titans\n",
+  answer: "A"
+},{
+  question: "Who is the owner of punjab team ?\n A = SRK \n B = Preity zinta\n C = kareena kapoor\n",
+  answer: "B"
 }
 
 ]
@@ -55,12 +61,12 @@ for (let i = 0; i < allQuestions.length; i++) {
 
 }
 console.log(chalk.blue("final score = ", score));
-if (score === 50) {
+if (score === 70) {
 
   console.log(chalk.blue("YAY you got all of them right"));
 
 }
 
 else{
- console.log(chalk.yellowBright("THE CORRECT ANSWERS ARE\n 1. A (Mumbai Indians)\n 2. B (Shahrukh khan)\n 3. C (Indian Premier League)\n 4. A (BCCI)"));
+ console.log(chalk.yellowBright("THE CORRECT ANSWERS ARE\n 1. A (Mumbai Indians)\n 2. B (Shahrukh khan)\n 3. A (Indian Premier League)\n 4. A (BCCI)\n 5. C (RCB)\n 6. A (Deccan Chargers)\n 7. B (preity zinta)"));
 }
